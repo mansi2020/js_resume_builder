@@ -71,7 +71,7 @@ a:hover:after {
 }
 #header_file_icon:hover {
   cursor: pointer;
-  color: rgb(245, 102, 0);
+  /* color: rgb(245, 102, 0); */
 }
 #header_file_icon {
   color: white;
@@ -79,6 +79,9 @@ a:hover:after {
 }
 #header_file_icon {
   font-size: 1.5rem;
+}
+#header-file-anchor{
+  border:none;
 }
 /*<--------------------main container--------------------------------------------------------> */
 #main_container {
